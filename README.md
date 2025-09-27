@@ -1,5 +1,5 @@
 # python-data-snippets
-A collection of small Python scripts and tasks from university labs
+A collection of small Python scripts and tasks for data analysis.
 
 
 # Topics
