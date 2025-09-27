@@ -2,7 +2,7 @@
 A collection of small Python scripts and tasks for data analysis.
 
 
-# Topics
+## Topics
 
 - Big data basics
 
@@ -12,7 +12,7 @@ A collection of small Python scripts and tasks for data analysis.
 
 - Data processing and modeling
 
-# Used libraries
+## Used libraries
 
 - [NumPy](https://numpy.org/) – complex numerical computing
 
@@ -22,6 +22,6 @@ A collection of small Python scripts and tasks for data analysis.
 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) – full scale GUI development
 
-# Purpose
+## Purpose
 
 These snippets are designed for learning, quick reference, and experimentation rather than full-scale projects.
