@@ -12,15 +12,15 @@ A collection of small Python scripts and exercises from university labs
 
 - Data processing and modeling
 
-# Used Libraries
+# Used libraries
 
-- [NumPy](https://numpy.org/) – numerical computing
+- [NumPy](https://numpy.org/) – complex numerical computing
 
-- [Matplotlib](https://matplotlib.org/) – data visualization
+- [Matplotlib](https://matplotlib.org/) – data visualization, graphs, heatmaps
 
-- [NLTK](https://www.nltk.org/) – natural language processing
+- [NLTK](https://www.nltk.org/) – natural language processing, stemming, lemmatisation
 
-- [Tkinter](https://docs.python.org/3/library/tkinter.html) – GUI development
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) – full scale GUI development
 
 # Purpose
 
